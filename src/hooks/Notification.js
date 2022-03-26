@@ -1,3 +1,3 @@
-const Notification = ({ message }) => <h2> {message}</h2>;
+const Notification = ({ message }) => <h3> {message}</h3>;
 
 export default Notification;
